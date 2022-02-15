@@ -25,7 +25,29 @@
 
     <!-- Form -->
 
+    <form class="signup-form" action="https://formdump.codeinstitute.net/" method="post">
+        <h2>Contact Us For Your Own Personalised Programme</h2>
 
+        <label for="fname">First Name</label>
+             <input type="text-input" name="fname" placeholder="First Name" required>
+        <label for="lname">Last Name</label>
+             <input type="text-input" name="lname" placeholder="Last Name" required>
+        <label for="email">Email Address</label>
+            <input type="email" name="email" placeholder="Email Address" required>
+        <label for="a-range">Age Range</label>
+            <select name="a-range" id="a-range" required>
+                <option value="">Select</option>
+                <option value="16-25">16-25</option>
+                <option value="26-40">26-40</option>
+                <option value="40+">40+</option>
+            </select>
+        <label for="form-info">Goal Info</label>
+        <br>
+             <textarea id="form-info" cols=50 rows=10 name="form-info" placeholder="Tess Us Your Goals" required></textarea>
+        <br>
+        <input id="submit-form" type="submit" value="Get Fit!">
+        <input id="clear-form" type="reset" value="Clear Form">
+    </form>
     
 
     <!-- Footer -->
