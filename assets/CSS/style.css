@@ -34,5 +34,24 @@
     background-size: cover;
 }
 
+/* nav menu */
+
+nav{
+    background-color: #ffa200a6;
+    text-align: center; 
+    display: flex;
+    justify-content: space-evenly;
+    position: fixed; 
+    top: 0;
+    width: 100%;
+  }
+
 /* text box background */
 
+.box {
+    background-color: rgba(255, 255, 255, 0.719);
+    margin-right:30%;
+    max-width:80%;
+    margin:auto;
+    text-justify: auto;
+}
