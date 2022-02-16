@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    border: none;
+    padding: 0;
+}
+
+/* background images */
+
+.index {
+    background: url(../images/home.jpeg) no-repeat center center;
+}
+
+.i16-25 {
+    background: url(../images/16-25.jpeg) no-repeat center center;
+    background-position: unset;
+    background-size: cover;
+}
+
+.i26-40 {
+    background: url(../images/26-40.jpeg) no-repeat center center;
+    background-position: unset;
+    background-size: cover;
+}
+
+.i40 {
+    background: url(../images/40+.png) no-repeat center center;
+    background-position: unset;
+    background-size: cover;
+}
+
+.contact {
+    background: url(../images/contact.png) no-repeat center center;
+    background-position: unset;
+    background-size: cover;
+}
+
+/* text box background */
+
