@@ -37,14 +37,26 @@
 /* nav menu */
 
 nav{
-    background-color: #ffa200a6;
+    background-color: #ffa200;
     text-align: center; 
     display: flex;
     justify-content: space-evenly;
     position: fixed; 
     top: 0;
     width: 100%;
+    padding-top: 10px;
   }
+
+  .nav {
+    font-size: 22px; 
+    color:black;
+    text-decoration: none;
+    border-radius: 6px;
+    background-color: rgb(255, 255, 255);
+    font-weight:bold;
+    padding: 5px;
+    margin-bottom: 10px;
+   }
 
 /* text box background */
 
@@ -53,5 +65,25 @@ nav{
     margin-right:30%;
     max-width:80%;
     margin:auto;
-    text-justify: auto;
+    margin-top: 120px;
+    margin-bottom: 500px;
 }
+
+/* footer */
+  
+.social-networks {
+    text-align: center;
+    background-color: #3a3a3a;
+    background-size: 50px;
+    }
+    
+.social-networks > li {
+    display: inline; 
+    }
+
+.social-networks i {
+    font-size: 160%;
+    margin: 1%;
+    padding: 5%;
+    color: #ffffff;
+    }
