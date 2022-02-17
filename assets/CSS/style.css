@@ -9,14 +9,6 @@
     font-family: 'Roboto Slab', serif;
 }
 
-h1 {
-    text-align: center;
-}
-
-h1 h2 {
-    font-family: 'Playfair Display', serif;
-}
-
 #index {
     text-align: center;
 }
@@ -87,14 +79,39 @@ nav {
 
 /* text box background */
 
+h1 {
+    text-align: center;
+}
+
+h2 {
+    padding-top: 50px;
+}
+
+h1 h2 h3 {
+    font-family: 'Playfair Display', serif;
+    font-weight: bolder;
+}
+
 .box {
-    background-color: rgba(255, 255, 255, 0.719);
+    background-color: rgba(255, 255, 255, 0.856);
     margin-right:30%;
     max-width:80%;
     margin:auto;
     margin-top: 120px;
     margin-bottom: 500px;
     border: 2px solid #333;
+}
+
+.what-we-do {
+    list-style-position: inside;
+    padding: 10px 0 0 130px; 
+    text-align: left;
+  }
+
+.where-do-you-start {
+    display: inline-block; 
+    text-align: left;
+    padding: 10px 40px 40px 40px;
 }
 
 /* footer */
