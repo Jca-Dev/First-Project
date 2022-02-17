@@ -9,8 +9,26 @@
     font-family: 'Roboto Slab', serif;
 }
 
+h1 {
+    text-align: center;
+}
+
 h1 h2 {
     font-family: 'Playfair Display', serif;
+}
+
+#index {
+    text-align: center;
+}
+
+/* logo */
+
+#logo {
+    margin: 0 auto;
+    display: block;
+    width: 150px;
+    height: 100px;
+    padding-bottom: 20px;
 }
 
 /* background images */
@@ -45,7 +63,7 @@ h1 h2 {
 
 /* nav menu */
 
-nav{
+nav {
     background-color: #ffa200;
     text-align: center; 
     display: flex;
@@ -56,7 +74,7 @@ nav{
     padding-top: 10px;
   }
 
-  .nav {
+.nav {
     font-size: 22px; 
     color:black;
     text-decoration: none;
@@ -82,7 +100,7 @@ nav{
 /* footer */
 
 footer {
-    position: absolute;
+    position: fixed;
     bottom: 0;
     width: 100%;
     background-color: #333;
@@ -109,6 +127,7 @@ footer {
     }
 
     /* form */
+
 form {
     display: inline-block;
     margin: 150px 0 0 0;
