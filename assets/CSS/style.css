@@ -111,7 +111,8 @@ footer {
 
     /* form */
 form {
-    margin: 150px 10% 0 0;
+    display: inline-block;
+    margin: 150px 0 0 0;
     border: 2px solid #333;
     color: rgb(0, 0, 0);
     background-color: rgba(255, 253, 253, 0.6);
@@ -151,6 +152,6 @@ input, select, textarea {
     padding: 5px 13px 5px 13px;
     background-color: orange;
     border: 2px solid #333;
-    margin-left: 34%;
+    margin-left: 31%;
     margin-top: 25px;
 }
