@@ -1,7 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display+SC:wght@700&display=swap');
+
 * {
     margin: 0;
     border: none;
     padding: 0;
+    font-family: 'Roboto Slab', serif;
+}
+
+h1 h2 {
+    font-family: 'Playfair Display', serif;
 }
 
 /* background images */
@@ -51,10 +60,10 @@ nav{
     font-size: 22px; 
     color:black;
     text-decoration: none;
-    border-radius: 6px;
+    border: 2px solid #333;
     background-color: rgb(255, 255, 255);
     font-weight:bold;
-    padding: 5px;
+    padding: 5px 10px 5px 10px;
     margin-bottom: 10px;
    }
 
@@ -67,6 +76,7 @@ nav{
     margin:auto;
     margin-top: 120px;
     margin-bottom: 500px;
+    border: 2px solid #333;
 }
 
 /* footer */
@@ -98,3 +108,49 @@ footer {
     padding: 5%;
     color: #ffffff;
     }
+
+    /* form */
+form {
+    margin: 150px 10% 0 0;
+    border: 2px solid #333;
+    color: rgb(0, 0, 0);
+    background-color: rgba(255, 253, 253, 0.6);
+    position: absolute;
+    left: 30%;
+    padding: 30px;
+}
+
+form h2 {
+    font-family: 'Playfair Display SC', serif;
+    padding-bottom: 50px;
+    font-size: 28px;
+    font-weight: bolder;
+}
+
+input, select, textarea {
+    border: 2px solid #333;
+}
+
+.label {
+    display: list-item;
+    list-style-type: none;
+    padding: 10px 0 0 0;
+    font-weight: bold;
+}
+
+#submit-form {
+    font-weight: bold;
+    padding: 5px 13px 5px 13px;
+    background-color: orange;
+    border: 2px solid #333;
+    margin-top: 25px;
+}
+
+#clear-form {
+    font-weight: bold;
+    padding: 5px 13px 5px 13px;
+    background-color: orange;
+    border: 2px solid #333;
+    margin-left: 34%;
+    margin-top: 25px;
+}
