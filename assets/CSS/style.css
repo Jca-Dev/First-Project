@@ -108,16 +108,20 @@ h1 h2 h3 {
 
 .what-we-do {
     list-style-position: inside;
-    padding: 10px 0 0 20%; 
+    padding: 10px 0 0 30%; 
     text-align: left;
   }
 
 .where-do-you-start, p {
-    display: inline-block; 
+    display: block; 
     text-align: left;
     padding: 15px 60px 60px 60px;
 }
 
+.steps {
+    font-weight: bold;
+    display: block;
+}
 /* footer */
 
 footer {
@@ -147,7 +151,7 @@ footer {
     color: #ffffff;
     }
 
-    /* form */
+/* form */
 
 form {
     margin: 100px;
@@ -195,4 +199,43 @@ input, select, textarea {
     border: 2px solid #333;
     margin-left: 31%;
     margin-top: 25px;
+}
+
+/* media queries*/
+
+/* 800px and below */
+@media screen and (max-width: 800px) {
+    nav, .nav {
+        line-height: 25px;
+        font-size: 16px;
+    }
+
+    .contact {
+        background-size: auto;
+    }
+
+    ul {
+        padding-right: 20px;
+    }
+
+    form {
+        margin: 68px auto;
+        width: 50%;
+        padding: 0 40px 40px 40px;
+    }
+
+    #submit-form {
+        margin-left: -30px;
+        
+    }
+
+    #clear-form {
+        margin-left: 70px;
+        position: absolute;
+    }
+
+    #form-info {
+        width: 95%;
+    }
+
 }
