@@ -238,4 +238,9 @@ input, select, textarea {
         width: 95%;
     }
 
+    .index, .i16-25, .i26-40, .i40, .contact {
+        background-position: center;
+        
+    }
+
 }
