@@ -100,7 +100,7 @@ h1 h2 h3 {
 }
 
 .title {
-    padding: 0 0 0 60px;
+    padding: 20px 20px 0 60px;
 }
 
 .box {
@@ -174,6 +174,7 @@ form h2 {
     padding-bottom: 50px;
     font-size: 28px;
     font-weight: bolder;
+    letter-spacing: 2px;
 }
 
 input, select, textarea {
@@ -208,6 +209,12 @@ input, select, textarea {
     margin-top: 25px;
 }
 
+#submit-form:hover, #clear-form:hover {
+    text-decoration-line: underline;
+    background-color: black;
+    color: #ffffff;
+}
+
 /* media queries*/
 
 /* 800px and below */
@@ -237,6 +244,10 @@ input, select, textarea {
         margin: 68px auto;
         width: 50%;
         padding: 0 40px 40px 40px;
+    }
+
+    form h2 {
+        font-size: 21px;
     }
 
     #submit-form {
