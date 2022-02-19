@@ -74,6 +74,16 @@ nav {
     margin-bottom: 10px;
    }
 
+.nav:hover {
+    text-decoration-line: underline;
+}
+
+#active {
+       text-decoration-line: underline;
+       background-color: black;
+       color: white;
+   }
+
 /* text box background */
 
 h1 {
