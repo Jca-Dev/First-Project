@@ -29,17 +29,17 @@
     background: url(../images/home.jpeg) no-repeat center center;
 }
 
-.i16-25 {
+.bkg_a {
     background: url(../images/16-25.jpeg) no-repeat center center;
     background-size: cover;
 }
 
-.i26-40 {
+.bkg_b {
     background: url(../images/26-40.jpeg) no-repeat center center;
     background-size: cover;
 }
 
-.i40 {
+.bkg_c {
     background: url(../images/40+.png) no-repeat center center; 
     background-size: cover;
 }
@@ -118,13 +118,13 @@ p {
     border: 2px solid #333;
 }
 
-.what-we-do {
+.what_we_do {
     list-style-position: inside;
     padding: 10px 0 0 30%; 
     text-align: left;
   }
 
-.where-do-you-start {
+.where_do_you_start {
     display: block; 
     text-align: left;
     padding: 15px 60px 60px 60px;
@@ -144,7 +144,7 @@ footer {
     background-color: #333;
 }
   
-.social-networks {
+.social_networks {
     text-align: center;
     padding: 6px;
     background-size: 50px;
@@ -153,11 +153,11 @@ footer {
     align-items: center;
     }
     
-.social-networks > li {
+.social_networks > li {
     display: inline; 
     }
 
-.social-networks i {
+.social_networks i {
     font-size: 160%;
     margin: 1%;
     padding: 5%;
@@ -187,7 +187,7 @@ input, select, textarea {
     border: 2px solid #333;
 }
 
-#form-info {
+#form_info {
     width: 50%;
 }
 
@@ -198,7 +198,7 @@ input, select, textarea {
     font-weight: bold;
 }
 
-#submit-form {
+#submit_form {
     font-weight: bold;
     padding: 5px 13px 5px 13px;
     background-color: orange;
@@ -206,7 +206,7 @@ input, select, textarea {
     margin-top: 25px;
 }
 
-#clear-form {
+#clear_form {
     font-weight: bold;
     padding: 5px 13px 5px 13px;
     background-color: orange;
@@ -215,7 +215,7 @@ input, select, textarea {
     margin-top: 25px;
 }
 
-#submit-form:hover, #clear-form:hover {
+#submit_form:hover, #clear_form:hover {
     text-decoration-line: underline;
     background-color: black;
     color: #ffffff;
@@ -230,7 +230,7 @@ input, select, textarea {
         font-size: 16px;
     }
 
-    .where-do-you-start {
+    .where_do_you_start {
         padding: 0px 0px 60px 20px;
     }
 
@@ -242,7 +242,7 @@ input, select, textarea {
         background-size: auto;
     }
 
-    .what-we-do {
+    .what_we_do {
         padding: 20px 0px 0px 30px;
     }
 
@@ -256,21 +256,21 @@ input, select, textarea {
         font-size: 21px;
     }
 
-    #submit-form {
+    #submit_form {
         margin-left: -30px;
         
     }
 
-    #clear-form {
+    #clear_form {
         margin-left: 70px;
         position: absolute;
     }
 
-    #form-info {
+    #form_info {
         width: 95%;
     }
 
-    .index, .i16-25, .i26-40, .i40, .contact {
+    .index, .bkg_a, .bkg_b, .bkg_c, .contact {
         background-position: center;
         
     }
