@@ -30,17 +30,17 @@
 }
 
 .bkg_a {
-    background: url(../images/16-25.jpeg) no-repeat center center;
+    background: url(../images/age_group_a.jpeg) no-repeat center center;
     background-size: cover;
 }
 
 .bkg_b {
-    background: url(../images/26-40.jpeg) no-repeat center center;
+    background: url(../images/age_group_b.jpeg) no-repeat center center;
     background-size: cover;
 }
 
 .bkg_c {
-    background: url(../images/40+.png) no-repeat center center; 
+    background: url(../images/age_group_c.png) no-repeat center center; 
     background-size: cover;
 }
 
