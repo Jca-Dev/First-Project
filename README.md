@@ -83,7 +83,11 @@ Its designed not to be obtrusive to the user by being dark and thin with minimal
 <h1>Testing</h1>
 <ul>
     <li>W3C Markup Validation Service</li>
-    <li></li>
+
+![Footer](/assets/images/html_validation.jpg)
+    <li>W3C CSS Validation Service</li>
+
+![Footer](/assets/images/css_validation.jpg)
     <li></li>
     
 </ul>
@@ -102,3 +106,4 @@ Its designed not to be obtrusive to the user by being dark and thin with minimal
     <li>Images from https://www.pexels.com/</li>
     <li>Icons from https://fontawesome.com/v5/search?m=free</li>
     <li>Text content extracted from https://www.menshealth.com/uk/building-muscle/a754528/the-best-training-plan-for-your-age/</li>
+    <li>Aspect ratio editor used from https://resizeimage.net/</li>
