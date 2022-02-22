@@ -1,10 +1,30 @@
 <h1>The Gym People</h1>
 <hr>
-The Gym People is a website for people looking for personalised training programmes. The site provides inspiration to get fit leading to the ability to sign up for a personalised gym programmes based on their age range and goals.
+The Gym People is a website for people looking for personalised training programmes. The site provides inspiration to get fit leading to the ability to sign up for a personalised gym programmes based on their age range and goals. <a href="https://jca-dev.github.io/First-Project/" target="_blank" rel="noopener" aria-label="Visit The Gym Group page (opens in a new tab)">Click Here</a> to go to the live webiste.
+
 
 ![Responsive site test](/assets/images/responsive.jpg)
 
-<h2>Navigation</h2>
+<h1>User Experience (UX)</h1>
+<h3>Goals</h3>
+<ul>
+    <li></li>
+    <li></li>
+    <li></li>
+    
+</ul>
+
+
+<h3>Wireframe Pages Used For Planning</h3>
+<ul>
+    <li></li>
+    <li></li>
+    <li></li>
+    
+</ul>
+
+<h1>Design And Features</h1>
+<h3>Navigation</h3>
 <hr>
 <ul>
     <li>The navigation menu floats at the top of the users screen as they scroll through the site.</li>
@@ -15,7 +35,7 @@ The Gym People is a website for people looking for personalised training program
 
 ![Navigation Menu](/assets/images/nav.jpg)
 
-<h2>The Logo</h2>
+<h3>The Logo</h3>
 <hr>
 The Logo is as the top of each page about the title text. 
 <br>
@@ -23,7 +43,7 @@ It shows the name of the company and a dumbell whith an orange + white backgroun
 
 ![Logo on the page](/assets/images/logo.jpg)
 
-<h2>The Contact Us Form</h2>
+<h3>The Contact Us Form</h3>
 <hr>
    <ul>
        <li>The contact us form collects user data in order for the company to create a gym programme tailored to the user.</li>
@@ -33,15 +53,51 @@ It shows the name of the company and a dumbell whith an orange + white backgroun
 
 ![Contact Form](/assets/images/contact-form.jpg)
 
-<h1>The Footer</h1>
+<h3>The Footer</h3>
 <hr>
 The Footer floats on the bottom of the screen showing the user all the social media links to the company.
 <br>
 Its designed not to be obtrusive to the user by being dark and thin with minimal content.
 
 ![Footer](/assets/images/footer.jpg)
-<h2>Sources</h2>
+
+<h1>Technologies Used</h1>
 <ul>
+    <li>HTML5</li>
+    <li>CSS</li>
+    <li>Google Fonts</li>
+    <li>Font Awesome</li>
+    <li>Git</li>
+    <li>Git Hub</li>
+    <li>Visual Code Studio</li>
+    <li>Balsamiq</li>
+    <li>Paint 3D</li>
+</ul>
+
+<h1>Deployment</h1>
+<h3>Github</h3>
+    <p>
+    How its is deployed
+    </p>
+
+<h1>Testing</h1>
+<ul>
+    <li></li>
+    <li></li>
+    <li></li>
+    
+</ul>
+<h3>Known Bugs</h3>
+<ul>
+    <li></li>
+    <li></li>
+    <li></li>
+    
+</ul>
+
+<h2>Sources/Credits</h2>
+<ul>
+    <li>My Mentor For His Eagle Eyed Feedback</li>
     <li>Footer From Love Runnng Project (Icons and Links) https://github.com/Jca-Dev/Love-Running</li>
     <li>Images from https://www.pexels.com/</li>
     <li>Icons from https://fontawesome.com/v5/search?m=free</li>
