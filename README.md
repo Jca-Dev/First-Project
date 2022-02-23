@@ -38,26 +38,26 @@ The Gym People is a website for people looking for personalised training program
 
 <h1>Design And Features</h1>
 <ol>
-<li>The site has interactive elements such as a form and a reactive navigation bar.</li>
-<li>The site is responsive on all device sizes</li>
+    <li>The site has interactive elements such as a form and a reactive navigation bar.</li>
+    <li>The site is responsive on all device sizes</li>
 </ol>
 <h2>Imagery</h2>
 <ul>
-<li>The site has been designed with minimal imagery so the user can focus on the navigation, text and social media icons.</li>
-<li>The background images have a slightly transparent text box over them that houses the content this way the user wont be distracted by the image.</li>
-<li>The logo is at the top of every text box on each page so the user feels familiar with the brand.</li>
+    <li>The site has been designed with minimal imagery so the user can focus on the navigation, text and social media icons.</li>
+    <li>The background images have a slightly transparent text box over them that houses the content this way the user wont be distracted by the image.</li>
+    <li>The logo is at the top of every text box on each page so the user feels familiar with the brand.</li>
 </ul>
 <h2>The site colors</h2>
 <ul>
-<li>Orange - Main</li>
-<li>White - Main</li>
-<li>Black - Secondary, helps the white stand out</li>
+    <li>Orange - Main</li>
+    <li>White - Main</li>
+    <li>Black - Secondary, helps the white stand out</li>
 </ul>
 
 <h2>The Font styles</h2>
 <ul>
-<li>Playfair is used for the headings because it emphasises capital letters and looks clean against the white backgrounds.</li>
-<li>Roboto Slab is used for the text body as it is well spaced giving a lighter feel to larger paragraphs of text.</li>
+    <li>Playfair is used for the headings because it emphasises capital letters and looks clean against the white backgrounds.</li>
+    <li>Roboto Slab is used for the text body as it is well spaced giving a lighter feel to larger paragraphs of text.</li>
 </ul>
 <h2>Navigation</h2>
 <hr>
@@ -89,37 +89,37 @@ It shows the name of the company and a dumbell whith an orange + white backgroun
 ![Contact Form](/assets/images/contact-form.jpg)
 
 <h2>The Footer</h2>
-<hr>
-The Footer floats on the bottom of the screen showing the user all the social media links to the company.
-<br>
-Its designed not to be obtrusive to the user by being dark and thin with minimal content.
+<ul>
+    <li>The Footer floats on the bottom of the screen showing the user all the social media links to the company.</li>
+    <li>The Footer is designed not to be obtrusive to the user by being dark and thin with minimal content.</li>
+</ul>
 
 ![Footer](/assets/images/footer.jpg)
 
 <h1>Technologies Used</h1>
 <ul>
-    <li>HTML5</li>
-    <li>CSS</li>
-    <li>Google Fonts</li>
-    <li>Font Awesome</li>
-    <li>Git</li>
-    <li>Git Hub</li>
-    <li>Visual Code Studio</li>
-    <li>Balsamiq</li>
-    <li>Paint 3D</li>
-    <li>Chrome Dev Tools</li>
-    <li>Lighthouse</li>
-    <li>W3C Validation</li>
+    <li>HTML5 - coding language.</li>
+    <li>CSS3 - coding language.</li>
+    <li>Google Fonts - to import fonts used on the site.</li>
+    <li>Font Awesome - to import icons used on the site.</li>
+    <li>Git - Version control by utilizing the Gitpod terminal to add and commit to Git then Push to GitHub.</li>
+    <li>Git Hub - stores the project code and hosts the website.</li>
+    <li>Visual Code Studio - system used to write code via Git</li>
+    <li>Balsamiq - to create the wireframes before coding the site</li>
+    <li>Paint 3D - to create the logo and edit screenshots for the README.md</li>
+    <li>Chrome Dev Tools - to action, review and test changes without having to commit and push to the website each time.</li>
+    <li>Lighthouse - testing code.</li>
+    <li>W3C Validation - testing code.</li>
 </ul>
 
 <h1>Deployment</h1>
 <h2>Github</h2>
 The project was deployed to GitHub Pages by:
 <ol>
-<li>Logging Into GitHub and locating the GitHub Repository.</li>
-<li>Selecting Settings in the Repository</li>
-<li>Select Pages from the Nav panel on the left</li>
-<li>Select Source dropdown list and select main</li>
+    <li>Logging Into GitHub and locating the GitHub Repository.</li>
+    <li>Selecting Settings in the Repository</li>
+    <li>Select Pages from the Nav panel on the left</li>
+    <li>Select Source dropdown list and select main</li>
 </ol>
 The page is now published and the link is above the source section.
     
@@ -127,21 +127,21 @@ The page is now published and the link is above the source section.
 <h1>Testing</h1>
 <h2>Browsers</h2>
 <ul>
-<li>Google Chrome.</li>
-<li>Microsoft Edge.</li>
-<li>Internet Explorer.</li>
-<li>mozilla firefox.</li>
+    <li>Google Chrome.</li>
+    <li>Microsoft Edge.</li>
+    <li>Internet Explorer.</li>
+    <li>mozilla firefox.</li>
 </ul>
 <h2>Devices</h2>
 <ul>
-<li>Galaxy S8.</li>
-<li>Galazy S21 Ultra.</li>
-<li>Iphone SE.</li>
-<li>Iphone 12 Pro.</li>
-<li>Ipad Air</li>
-<li>Surface Pro 7</li>
-<li>Laptop</li>
-<li>Nest Hub max</li>
+    <li>Galaxy S8.</li>
+    <li>Galazy S21 Ultra.</li>
+    <li>Iphone SE.</li>
+    <li>Iphone 12 Pro.</li>
+    <li>Ipad Air</li>
+    <li>Surface Pro 7</li>
+    <li>Laptop</li>
+    <li>Nest Hub max</li>
 </ul>
 <h2>Softwares</h2>
 <ul>
@@ -181,9 +181,9 @@ The page is now published and the link is above the source section.
 
 <h2>Sources/Credits</h2>
 <ul>
-    <li>My Mentor For His Eagle Eyed Feedback</li>
-    <li>Footer From Love Runnng Project (Icons and Links) https://github.com/Jca-Dev/Love-Running</li>
+    <li>My Mentor for his eagle eye and feedback</li>
+    <li>Footer from the Love Runnng Project (Icons and Links) https://github.com/Jca-Dev/Love-Running</li>
     <li>Images from https://www.pexels.com/</li>
     <li>Icons from https://fontawesome.com/v5/search?m=free</li>
-    <li>Text content extracted from https://www.menshealth.com/uk/building-muscle/a754528/the-best-training-plan-for-your-age/</li>
+    <li>All Text content other than index.html (Homepage) extracted from https://www.menshealth.com/uk/building-muscle/a754528/the-best-training-plan-for-your-age/</li>
     <li>Aspect ratio editor used from https://resizeimage.net/</li>
