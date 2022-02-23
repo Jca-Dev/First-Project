@@ -130,7 +130,7 @@ The page is now published and the link is above the source section.
     <li>Google Chrome.</li>
     <li>Microsoft Edge.</li>
     <li>Internet Explorer.</li>
-    <li>mozilla firefox.</li>
+    <li>Mozilla Firefox.</li>
 </ul>
 <h2>Devices</h2>
 <ul>
@@ -145,13 +145,13 @@ The page is now published and the link is above the source section.
 </ul>
 <h2>Softwares</h2>
 <ul>
-    <li>W3C Markup Validation Service</li>
+    <li><a href="https://validator.w3.org/" target="_blank" rel="noopener">W3C Markup Validation Service</a></li>
 
 ![W3C HTML](/assets/images/html_validation.jpg)
-    <li>W3C CSS Validation Service</li>
+    <li><a href="https://jigsaw.w3.org/css-validator/" target="_blank" rel="noopener">W3C CSS Validation Service</a></li>
 
 ![W3C CSS](/assets/images/css_validation.jpg)
-    <li>Google Chrome Lighthouse</li>
+    <li><a href="https://developers.google.com/web/tools/lighthouse" target="_blank" rel="noopener">Google Chrome Lighthouse</a></li>
 
 ![Lighthouse](/assets/images/lighthouse.png) 
 </ul>
@@ -182,8 +182,8 @@ The page is now published and the link is above the source section.
 <h2>Sources/Credits</h2>
 <ul>
     <li>My Mentor for his eagle eye and feedback</li>
-    <li>Footer from the Love Runnng Project (Icons and Links) https://github.com/Jca-Dev/Love-Running</li>
-    <li>Images from https://www.pexels.com/</li>
-    <li>Icons from https://fontawesome.com/v5/search?m=free</li>
-    <li>All Text content other than index.html (Homepage) extracted from https://www.menshealth.com/uk/building-muscle/a754528/the-best-training-plan-for-your-age/</li>
-    <li>Aspect ratio editor used from https://resizeimage.net/</li>
+    <li>Footer from the Love Runnng Project (Icons and Links) <a href="https://github.com/Jca-Dev/Love-Running" target="_blank" rel="noopener">https://github.com/Jca-Dev/Love-Running</a></li>
+    <li>Images from <a href="https://www.pexels.com/" target="_blank" rel="noopener">https://www.pexels.com/</a></li>
+    <li>Icons from <a href="https://fontawesome.com/v5/search?m=free" target="_blank" rel="noopener">https://fontawesome.com/v5/search?m=free</a></li>
+    <li>All Text content other than index.html (Homepage) extracted from <a href="https://www.menshealth.com/uk/building-muscle/a754528/the-best-training-plan-for-your-age/" target="_blank" rel="noopener">https://www.menshealth.com/uk/building-muscle/a754528/the-best-training-plan-for-your-age/</a></li>
+    <li>Aspect ratio editor used from <a href="https://resizeimage.net/" target="_blank" rel="noopener">https://resizeimage.net/</a></li>
