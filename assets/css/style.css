@@ -99,6 +99,10 @@ h1 h2 h3 {
     font-weight: bolder;
 }
 
+#motto {
+    font-weight: bold;
+}
+
 p {
     padding: 15px 60px 30px 60px;
     text-align: left;
