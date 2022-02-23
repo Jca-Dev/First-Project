@@ -6,7 +6,7 @@ The Gym People is a website for people looking for personalised training program
 ![Responsive site test](/assets/images/responsive.jpg)
 
 <h1>User Experience (UX)</h1>
-<h3>Goals</h3>
+<h2>Goals</h2>
 <ul>
     <li></li>
     <li></li>
@@ -15,16 +15,28 @@ The Gym People is a website for people looking for personalised training program
 </ul>
 
 
-<h3>Wireframe Pages Used For Planning</h3>
-<ul>
-    <li></li>
-    <li></li>
-    <li></li>
-    
-</ul>
+<h2>Wireframe Pages Used For Planning</h2>
+<hr>
+
+![Wireframe Page](/assets/images/w_index.png)
+<hr>
+
+![Wireframe Page](/assets/images/w_ag_a.png)
+<hr>
+
+![Wireframe Page](/assets/images/w_ag_b.png)
+<hr>
+
+![Wireframe Page](/assets/images/w_ag_c.png)
+<hr>
+
+![Wireframe Page](/assets/images/w_contact.png)
+<hr>
+
+![Wireframe Page](/assets/images/w_logo.png)
 
 <h1>Design And Features</h1>
-<h3>Navigation</h3>
+<h2>Navigation</h2>
 <hr>
 <ul>
     <li>The navigation menu floats at the top of the users screen as they scroll through the site.</li>
@@ -35,7 +47,7 @@ The Gym People is a website for people looking for personalised training program
 
 ![Navigation Menu](/assets/images/nav.jpg)
 
-<h3>The Logo</h3>
+<h2>The Logo</h2>
 <hr>
 The Logo is as the top of each page about the title text. 
 <br>
@@ -43,7 +55,7 @@ It shows the name of the company and a dumbell whith an orange + white backgroun
 
 ![Logo on the page](/assets/images/logo.jpg)
 
-<h3>The Contact Us Form</h3>
+<h2>The Contact Us Form</h2>
 <hr>
    <ul>
        <li>The contact us form collects user data in order for the company to create a gym programme tailored to the user.</li>
@@ -53,7 +65,7 @@ It shows the name of the company and a dumbell whith an orange + white backgroun
 
 ![Contact Form](/assets/images/contact-form.jpg)
 
-<h3>The Footer</h3>
+<h2>The Footer</h2>
 <hr>
 The Footer floats on the bottom of the screen showing the user all the social media links to the company.
 <br>
@@ -75,7 +87,7 @@ Its designed not to be obtrusive to the user by being dark and thin with minimal
 </ul>
 
 <h1>Deployment</h1>
-<h3>Github</h3>
+<h2>Github</h2>
     <p>
     How its is deployed
     </p>
@@ -91,7 +103,7 @@ Its designed not to be obtrusive to the user by being dark and thin with minimal
     <li></li>
     
 </ul>
-<h3>Known Bugs</h3>
+<h2>Known Bugs</h2>
 <ul>
     <li></li>
     <li></li>
