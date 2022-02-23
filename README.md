@@ -1,9 +1,10 @@
 <h1>The Gym People</h1>
 <hr>
 The Gym People is a website for people looking for personalised training programmes. The site provides inspiration to get fit leading to the ability to sign up for a personalised gym programmes based on their age range and goals. <a href="https://jca-dev.github.io/First-Project/" target="_blank" rel="noopener" aria-label="Visit The Gym Group page (opens in a new tab)">Click Here</a> to go to the live webiste.
-
+<hr>
 
 ![Responsive site test](/assets/images/responsive.jpg)
+<hr>
 
 <h1>User Experience (UX)</h1>
 <h2>Goals</h2>
@@ -15,26 +16,22 @@ The Gym People is a website for people looking for personalised training program
     <li>Frequent users connect via the social media platforms for information and updates.</li>
 </ul>
 
-
+<hr>
 <h1>Wireframe Pages Used For Planning</h1>
 <hr>
 
 ![Wireframe Page](/assets/images/w_index.jpg)
-<hr>
 
 ![Wireframe Page](/assets/images/w_ag_a.jpg)
-<hr>
 
 ![Wireframe Page](/assets/images/w_ag_b.jpg)
-<hr>
 
 ![Wireframe Page](/assets/images/w_ag_c.jpg)
-<hr>
 
 ![Wireframe Page](/assets/images/w_contact.jpg)
-<hr>
 
 ![Wireframe Page](/assets/images/w_logo.jpg)
+<hr>
 
 <h1>Design And Features</h1>
 <ol>
@@ -47,18 +44,19 @@ The Gym People is a website for people looking for personalised training program
     <li>The background images have a slightly transparent text box over them that houses the content this way the user wont be distracted by the image.</li>
     <li>The logo is at the top of every text box on each page so the user feels familiar with the brand.</li>
 </ul>
-<h2>The site colors</h2>
+<h2>Site colors</h2>
 <ul>
     <li>Orange - Main</li>
     <li>White - Main</li>
     <li>Black - Secondary, helps the white stand out</li>
 </ul>
 
-<h2>The Font styles</h2>
+<h2>Font styles</h2>
 <ul>
     <li>Playfair is used for the headings because it emphasises capital letters and looks clean against the white backgrounds.</li>
     <li>Roboto Slab is used for the text body as it is well spaced giving a lighter feel to larger paragraphs of text.</li>
 </ul>
+<hr>
 <h2>Navigation</h2>
 <hr>
 <ul>
@@ -69,16 +67,18 @@ The Gym People is a website for people looking for personalised training program
 </ul>
 
 ![Navigation Menu](/assets/images/nav.jpg)
+<hr>
 
-<h2>The Logo</h2>
+<h2>Logo</h2>
 <hr>
 The Logo is as the top of each page about the title text. 
 <br>
 It shows the name of the company and a dumbell whith an orange + white background keeping with the sites color scheme.
 
 ![Logo on the page](/assets/images/logo.jpg)
+<hr>
 
-<h2>The Contact Us Form</h2>
+<h2>Contact Us Form</h2>
 <hr>
    <ul>
        <li>The contact us form collects user data in order for the company to create a gym programme tailored to the user.</li>
@@ -87,14 +87,16 @@ It shows the name of the company and a dumbell whith an orange + white backgroun
    </ul>
 
 ![Contact Form](/assets/images/contact-form.jpg)
+<hr>
 
-<h2>The Footer</h2>
+<h2>Footer</h2>
 <ul>
     <li>The Footer floats on the bottom of the screen showing the user all the social media links to the company.</li>
     <li>The Footer is designed not to be obtrusive to the user by being dark and thin with minimal content.</li>
 </ul>
 
 ![Footer](/assets/images/footer.jpg)
+<hr>
 
 <h1>Technologies Used</h1>
 <ul>
@@ -111,7 +113,7 @@ It shows the name of the company and a dumbell whith an orange + white backgroun
     <li>Lighthouse - testing code.</li>
     <li>W3C Validation - testing code.</li>
 </ul>
-
+<hr>
 <h1>Deployment</h1>
 <h2>Github</h2>
 The project was deployed to GitHub Pages by:
@@ -123,7 +125,7 @@ The project was deployed to GitHub Pages by:
 </ol>
 The page is now published and the link is above the source section.
     
-
+<hr>
 <h1>Testing</h1>
 <h2>Browsers</h2>
 <ul>
@@ -178,8 +180,9 @@ The page is now published and the link is above the source section.
     <li>Internet Explorer nav bar and footer icons and buttons are pushed left (This can be fixed by changing css justify-content: space-evenly; to justify-content: space-around;)</li>
     <li>Internet Explorer has no :Hover style for nav bar</li>
 </ul>
-
+<hr>
 <h2>Sources/Credits</h2>
+<hr>
 <ul>
     <li>My Mentor for his eagle eye and feedback</li>
     <li>Footer from the Love Runnng Project (Icons and Links) <a href="https://github.com/Jca-Dev/Love-Running" target="_blank" rel="noopener">https://github.com/Jca-Dev/Love-Running</a></li>
