@@ -10,8 +10,9 @@ The Gym People is a website for people looking for personalised training program
 <ul>
     <li>Give relevant information to users that want a personal training/ nutrition plan.</li>
     <li>Show a clean, clear, accessible and easily navigable website for the user.</li>
-    <li>Have an easy way for the user to contact the organisation.</li>
-    
+    <li>users have an easy way to contact the organisation.</li>
+    <li>Users return to show/recommend service to others.</li>
+    <li>Frequent users connect via the social media platforms for information and updates.</li>
 </ul>
 
 
@@ -36,6 +37,28 @@ The Gym People is a website for people looking for personalised training program
 ![Wireframe Page](/assets/images/w_logo.jpg)
 
 <h1>Design And Features</h1>
+<ol>
+<li>The site has interactive elements such as a form and a reactive navigation bar.</li>
+<li>The site is responsive on all device sizes</li>
+</ol>
+<h2>Imagery</h2>
+<ul>
+<li>The site has been designed with minimal imagery so the user can focus on the navigation, text and social media icons.</li>
+<li>The background images have a slightly transparent text box over them that houses the content this way the user wont be distracted by the image.</li>
+<li>The logo is at the top of every text box on each page so the user feels familiar with the brand.</li>
+</ul>
+<h2>The site colors</h2>
+<ul>
+<li>Orange - Main</li>
+<li>White - Main</li>
+<li>Black - Secondary, helps the white stand out</li>
+</ul>
+
+<h2>The Font styles</h2>
+<ul>
+<li>Playfair is used for the headings because it emphasises capital letters and looks clean against the white backgrounds.</li>
+<li>Roboto Slab is used for the text body as it is well spaced giving a lighter feel to larger paragraphs of text.</li>
+</ul>
 <h2>Navigation</h2>
 <hr>
 <ul>
@@ -84,6 +107,9 @@ Its designed not to be obtrusive to the user by being dark and thin with minimal
     <li>Visual Code Studio</li>
     <li>Balsamiq</li>
     <li>Paint 3D</li>
+    <li>Chrome Dev Tools</li>
+    <li>Lighthouse</li>
+    <li>W3C Validation</li>
 </ul>
 
 <h1>Deployment</h1>
@@ -99,14 +125,25 @@ The page is now published and the link is above the source section.
     
 
 <h1>Testing</h1>
-<h2>Tested on:</h2>
+<h2>Browsers</h2>
 <ul>
 <li>Google Chrome.</li>
 <li>Microsoft Edge.</li>
 <li>Internet Explorer.</li>
 <li>mozilla firefox.</li>
-<li></li>
 </ul>
+<h2>Devices</h2>
+<ul>
+<li>Galaxy S8.</li>
+<li>Galazy S21 Ultra.</li>
+<li>Iphone SE.</li>
+<li>Iphone 12 Pro.</li>
+<li>Ipad Air</li>
+<li>Surface Pro 7</li>
+<li>Laptop</li>
+<li>Nest Hub max</li>
+</ul>
+<h2>Softwares</h2>
 <ul>
     <li>W3C Markup Validation Service</li>
 
@@ -138,7 +175,8 @@ The page is now published and the link is above the source section.
 
 <h2>Known Bugs</h2>
 <ul>
-    <li>Internet Explorer nav bar and footer icons and buttons are pushed left with no :Hover style</li>
+    <li>Internet Explorer nav bar and footer icons and buttons are pushed left (This can be fixed by changing css justify-content: space-evenly; to justify-content: space-around;)</li>
+    <li>Internet Explorer has no :Hover style for nav bar</li>
 </ul>
 
 <h2>Sources/Credits</h2>
